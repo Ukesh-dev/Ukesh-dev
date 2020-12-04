@@ -1,6 +1,6 @@
 ### Hi there, I'm Ukesh - aka [Ukesh_Shrestha][facebook] 👋
 
-[![Twitter Follow](https://img.shields.io/facebook/follow/Ukesh_Shrestha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.facebook.com/ukeshcrestha)
+
 
 ## I'm a Student and Developer!!
 
