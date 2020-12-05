@@ -13,7 +13,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Ukesh-dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
- [<img width="22px" height="35px" align="left"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev'>](https://dev.to/ukeshdev)  
+ [<img width="30px"" align="left"  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev'>](https://dev.to/ukeshdev)  
 [<img  width="22px"  align="right" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='Ukesh-dev'>](https://github.com/Ukesh-dev)  
 
 <br />
