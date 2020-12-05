@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play football in my leisure and love meeting new people
+- ⚡ Fun fact: I love sports and meeting new people
 
 
 
