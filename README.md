@@ -1,5 +1,6 @@
 
-<img align="center" alt="banner" width="1200px" src="https://user-images.githubusercontent.com/63498317/136203297-bdf7a942-ba7a-4580-b7d7-1a1ea28ae0c8.gif"/>
+
+<img align="center" alt="banner" width="1200px" src="https://user-images.githubusercontent.com/63498317/136204334-ea43e530-66d2-4d33-8d1e-0ef764afdff3.gif"/>
 
 
 - 🌱 I’m a front end developer trying to learn new technologies🤣
