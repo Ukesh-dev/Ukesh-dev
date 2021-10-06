@@ -1,8 +1,6 @@
-### Hi there, I'm [Ukesh_Shrestha][facebook] 👋
 
+<img align="center" alt="banner" width="1200px" src="https://user-images.githubusercontent.com/63498317/136203297-bdf7a942-ba7a-4580-b7d7-1a1ea28ae0c8.gif"/>
 
-
-## I'm a Student and Developer!!
 
 - 🌱 I’m a front end developer trying to learn new technologies🤣
 - 👯 I’m looking to collaborate with other web developers
