@@ -43,7 +43,8 @@
 ### 🐍🐍Oh No! My Contributions🐍🐍
 <img align="center" src="https://raw.githubusercontent.com/Ukesh-dev/Ukesh-dev/output/github-contribution-grid-snake.svg" />
 
-  <summa:ry>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats :zap:</summary>
+  
   <img align="left" alt="Ukesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ukesh-dev&show_icons=true&hide_border=true&theme=nightowl" />
 <!-- ![](https://raw.githubusercontent.com/Ukesh-dev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Ukesh-dev/github-stats/master/generated/overview.svg#gh-light-mode-only) -->
