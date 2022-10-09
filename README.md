@@ -44,8 +44,7 @@
 <img align="center" src="https://raw.githubusercontent.com/Ukesh-dev/Ukesh-dev/output/github-contribution-grid-snake.svg" />
 
   <summa:ry>:zap: GitHub Stats</summary>
-  
- <img align="left" alt="Ukesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ukesh-dev&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="Ukesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ukesh-dev&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
 
