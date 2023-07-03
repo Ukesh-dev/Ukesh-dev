@@ -7,13 +7,12 @@
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2023 Goals: Learn most technologies I can 
 - ⚡ Fun fact: I love sports and meeting new people
+<br />
+
+[`Ukesh's Homepage`](https://www.ukeshrestha.com.np/)
 
 <br />
 
-<br />
-https://ukeshrestha.com.np/<br />
-
-<br />
 
 [![@ukesh's Holopin board](https://holopin.io/api/user/board?user=ukesh)](https://holopin.io/@ukesh)
 
