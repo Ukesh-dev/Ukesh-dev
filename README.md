@@ -1,6 +1,7 @@
 
 
-![ukesh_shrestha](https://github.com/Ukesh-dev/Ukesh-dev/assets/63498317/5c9a88b8-8370-4616-bebf-e1a7653ad29f)
+
+![ukeshShrestha](https://github.com/Ukesh-dev/Ukesh-dev/assets/63498317/53818b76-b0ce-46ac-988b-80d04b789fdd)
 
 
 - 🌱 I’m a front end developer trying to learn new technologies🤣
