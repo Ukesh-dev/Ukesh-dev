@@ -6,7 +6,7 @@
 
 - 🌱 I’m a front end developer trying to learn new technologies🤣
 - 👯 I’m looking to collaborate with other web developers
-- 🥅 2025 Goals: Learn most technologies I can 
+- 🥅 2024 Goals: Learn most technologies I can 
 - ⚡ Fun fact: I love sports and meeting new people
 <br />
 
