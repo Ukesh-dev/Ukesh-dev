@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love sports and meeting new people
 <br />
 
-[`Ukesh's Homepage`](https://www.ukeshrestha.com.np/)
+[`My Portfolio`](https://www.ukeshrestha.com.np/)
 
 <br />
 
